@@ -1,0 +1,11 @@
+[package]
+name = "cargo-space"
+version = "1.0.0"
+authors = ["Ashley Hauck <shitpost@khyperia.com>"]
+edition = "2018"
+license = "WTFPL"
+description = "Prints a pun."
+repository = "https://github.com/khyperia/cargo-space"
+readme = "readme.md"
+
+[dependencies]
